@@ -1,0 +1,20 @@
+{
+  "name": "test-template",
+  "displayName": "test-template",
+  "description": "A simple code snippet to accelerate unit test development using jest",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
